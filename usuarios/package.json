@@ -1,20 +1,19 @@
 {
   "name": "usuarios",
   "version": "1.0.0",
-  "description": "Projeto microserviço com nodejs e express",
+  "description": "Projeto de microserviço com nodejs e express",
   "main": "index.js",
   "scripts": {
 
-    "start": "nodemon ./src/index.js"
-    
+    "start":"nodemon ./src/index.js"
   },
   "keywords": [
-    "Microserviço",
-    "nodejs",
+    "Microserviços",
+    "ndejs",
     "express",
     "bcrypt"
   ],
-  "author": "Matheus Henrique",
+  "author": "Vanildo Lima",
   "license": "ISC",
   "dependencies": {
     "bcrypt": "^5.1.1",
